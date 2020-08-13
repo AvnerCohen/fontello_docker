@@ -25,7 +25,7 @@ docker run -d -p 3000:3000 fontello_server
 
 * ubuntu 14.04
 * node 8.14.0
-* Fontello 7.1.0
+* Fontello 8.0.0
 
 ## Find Us
 
